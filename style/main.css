@@ -318,7 +318,7 @@ hr {
   .tile.tile-2 .tile-inner {
     background: #eee4da;
     background-image: url("../img/abhay.png");
-    background-size: 80% 80%;
+    background-size: 90% 90%;
     background-repeat: no-repeat;
     background-position: center;
     font-size: 0px;
@@ -326,7 +326,7 @@ hr {
   .tile.tile-4 .tile-inner {
     background: #ede0c8;
     background-image: url("../img/chambers.png");
-    background-size: 80% 80%;
+    background-size: 90% 90%;
     background-repeat: no-repeat;
     background-position: center;
     font-size: 0px;
@@ -334,7 +334,7 @@ hr {
   .tile.tile-8 .tile-inner {
     background: #bb9bbf;
     background-image: url("../img/landon.png");
-    background-size: 80% 80%;
+    background-size: 90% 90%;
     background-repeat: no-repeat;
     background-position: center;
     font-size: 0px;
@@ -342,7 +342,7 @@ hr {
   .tile.tile-16 .tile-inner {
     background: #f8a389;
     background-image: url("../img/dave.png");
-    background-size: 80% 80%;
+    background-size: 90% 90%;
     background-repeat: no-repeat;
     background-position: center;
     font-size: 0px;
@@ -350,7 +350,7 @@ hr {
   .tile.tile-32 .tile-inner {
     background: #d8b74d;
     background-image: url("../img/chade.png");
-    background-size: 80% 80%;
+    background-size: 90% 90%;
     background-repeat: no-repeat;
     background-position: center;
     font-size: 0px;
@@ -358,7 +358,7 @@ hr {
   .tile.tile-64 .tile-inner {
     background: #f65e3b;
     background-image: url("../img/mike.png");
-    background-size: 80% 80%;
+    background-size: 90% 90%;
     background-repeat: no-repeat;
     background-position: center;
     font-size: 0px;
@@ -366,35 +366,42 @@ hr {
   .tile.tile-128 .tile-inner {
     background: #7e8c87;
     background-image: url("../img/lindsay.png");
-    background-size: 80% 80%;
+    background-size: 90% 90%;
     background-repeat: no-repeat;
     background-position: center;
     font-size: 0px; }
   .tile.tile-256 .tile-inner {
     background: #fbeb76;
     background-image: url("../img/haro.png");
-    background-size: 80% 80%;
+    background-size: 90% 90%;
     background-repeat: no-repeat;
     background-position: center;
     font-size: 0px; }
   .tile.tile-512 .tile-inner {
     background: #4da66d;
     background-image: url("../img/alex.png");
-    background-size: 80% 80%;
+    background-size: 90% 90%;
     background-repeat: no-repeat;
     background-position: center;
     font-size: 0px; }
   .tile.tile-1024 .tile-inner {
     background: #89a9d7;
     background-image: url("../img/jack.png");
-    background-size: 80% 80%;
+    background-size: 90% 90%;
     background-repeat: no-repeat;
     background-position: center;
     font-size: 0px; }
   .tile.tile-2048 .tile-inner {
     background: #c76d5c;
     background-image: url("../img/rex.png");
-    background-size: 80% 80%;
+    background-size: 90% 90%;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 0px; }
+  .tile.tile-4096 .tile-inner {
+    background: #eabebe;
+    background-image: url("../img/rosen40.png");
+    background-size: 90% 90%;
     background-repeat: no-repeat;
     background-position: center;
     font-size: 0px; }
